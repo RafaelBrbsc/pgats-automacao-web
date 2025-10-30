@@ -1,4 +1,4 @@
 cypress/screenshots/
-mochawesome-report/
+cypress/reports/
 node_modules/
 package-lock.json
